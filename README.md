@@ -1,9 +1,14 @@
 # Ignite Lab - Design System
 ## Aula 01 | Estrutura visual do Design System
 
+![preview](./.github/assets/preview.png)
+
 Criação da estrutura visual do *Design System* no *Figma*.
+
 Padronização da paleta de cores que será utilizada em todo o projeto.
+
 Definição de componentes que irão fazer parte da biblioteca em *REACT*.
+
 Agrupamento de elementos dentro do *Figma* capaz de se comportar de forma semelhante ao *display flex* do *CSS*
 
 
