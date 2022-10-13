@@ -1,5 +1,7 @@
 # Ignite Lab - Design System
 
+Projeto desenvolvido no evento Ignite Lab da Rocketseat
+
 ![preview](./.github/assets/preview.png)
 ## Aula 01 | Estrutura visual do Design System
 
@@ -39,7 +41,7 @@ Utilização dos componentes criados na aula anterior para o desenvolvimento da 
 - Radix-ui
 - Tailwindcss
 - Git
-- Github
+- Github Actions
 
 ## Contato
 
