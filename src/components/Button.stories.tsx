@@ -8,8 +8,19 @@ export default {
         children: 'Submit',
     },
     argTypes: {
+        className: {
+            table: {
+                disable: true
+            }
+        },
+        asChild: {
+            table: {
+                disable: true
+            }
+        },
 
     }
+
 } as Meta<ButtonProps>;
 
 export const Default: StoryObj<ButtonProps> = {}

@@ -6,9 +6,14 @@ export default {
     title: 'Components/Checkbox',
     component: Checkbox,
     args: {
-        children: 'Submit',
     },
-    argTypes: {},
+    argTypes: {
+        asChild: {
+            table: {
+                disable: true
+            }
+        },
+    },
     decorators: [
         (Story) => {
             return (
@@ -18,7 +23,7 @@ export default {
                 </div>
             )
         }
-    ]
+    ],
 } as Meta<CheckboxProps>;
 
 export const Default: StoryObj<CheckboxProps> = {}

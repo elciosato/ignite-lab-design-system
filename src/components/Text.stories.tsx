@@ -14,7 +14,17 @@ export default {
             control: {
                 type: 'inline-radio'
             }
-        }
+        },
+        asChild: {
+            table: {
+                disable: true
+            }
+        },
+        className: {
+            table: {
+                disable: true
+            }
+        },
     }
 } as Meta<TextProps>;
 
