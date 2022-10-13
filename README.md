@@ -1,7 +1,7 @@
 # Ignite Lab - Design System
-## Aula 01 | Estrutura visual do Design System
 
 ![preview](./.github/assets/preview.png)
+## Aula 01 | Estrutura visual do Design System
 
 Criação da estrutura visual do *Design System* no *Figma*.
 
